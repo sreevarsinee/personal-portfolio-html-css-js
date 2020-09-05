@@ -33,3 +33,7 @@ setTimeout(function(){
       $("#loading").css("display","none");
     },400);
 },1000);
+
+document. getElementById("b1"). onclick = function () {
+location. href = "index.html";
+};
